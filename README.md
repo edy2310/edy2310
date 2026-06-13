@@ -1,13 +1,13 @@
 # Edgar Muñoz
 
-**Senior Software Engineer | [cite_start]GPU Kernel Optimization & AI Inference** Mexico (TN Visa Eligible) [cite: 10]
-[cite_start][LinkedIn](https://www.linkedin.com/in/edgarmuvaz) · [Email](mailto:edgarmuvaz@gmail.com) [cite: 2, 3]
+**Senior Software Engineer | GPU Kernel Optimization & AI Inference** Mexico (TN Visa Eligible)
+[LinkedIn](https://www.linkedin.com/in/edgarmuvaz) · [Email](mailto:edgarmuvaz@gmail.com)
 
 ---
 
 ### Profile
 
-[cite_start]Senior Software Engineer with over 7 years of experience building, scaling, and observing high-availability distributed systems at industry-leading companies, including Apple and Microsoft[cite: 18, 27]. [cite_start]Expertise spans processing terabyte-scale datasets using Apache Spark, managing robust gRPC APIs, and architecting cloud-native microservices on Kubernetes and Azure[cite: 22, 23, 30, 43]. 
+Senior Software Engineer with over 7 years of experience building, scaling, and observing high-availability distributed systems at industry-leading companies, including Apple and Microsoft[cite: 18, 27]. Expertise spans processing terabyte-scale datasets using Apache Spark, managing robust gRPC APIs, and architecting cloud-native microservices on Kubernetes and Azure[cite: 22, 23, 30, 43]. 
 
 Currently channeling this deep architectural knowledge into low-level hardware optimization, focusing on GPU kernel engineering, memory management, and accelerating AI inference pipelines. My goal is to bridge the gap between heavy distributed cloud infrastructure and bare-metal performance, driving maximum throughput and minimal latency by writing optimized execution paths directly for the silicon.
 
